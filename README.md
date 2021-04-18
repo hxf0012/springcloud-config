@@ -1,2 +1,4 @@
 # springcloud-config
-springcloud_forlearn
+springcloud-config的配置中心
+
+springcloud-config的配置中心
